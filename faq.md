@@ -1,4 +1,4 @@
-# :question: Frequently Asked Questions :question:
+# ❓ Frequently Asked Questions ❓
 
 1. **What is Cloud Computing?**
 Cloud computing is a tech model where computing resources like servers, storage, and software are delivered over the internet. Instead of owning and maintaining physical hardware, you can rent or lease these resources from a cloud service provider. This makes it easier and often cheaper to scale, collaborate, and manage data.
