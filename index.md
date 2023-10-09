@@ -1,16 +1,14 @@
-# Welcome to Cloud Computing 101
+# Welcome to Cloud Computing 101 :cloud:
 
-This site aims to provide basic information on cloud computing.
+**Your roadmap to understanding cloud computing.**
 
-- [Introduction to Cloud Computing](#introduction-to-cloud-computing)
-- [Basics of Cloud Computing](cloud-basics.md)
-- [FAQ](faq.md)
-- [Glossary](glossary.md)
+- [**Introduction**](#introduction)
+- [**Cloud Basics**](cloud-basics.md)
+- [**FAQ**](faq.md)
+- [**Glossary**](glossary.md)
 
-## Introduction to Cloud Computing
+## :arrow_down_small: Introduction :arrow_down_small:
 
-Cloud computing is the delivery of computing services like servers, storage, and more over the internet.
-
-[Read more about cloud basics](cloud-basics.md)
-
-
+Cloud computing is the delivery of computing services over the internet...
+  
+:point_right: [Explore Cloud Basics](cloud-basics.md)
